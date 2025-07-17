@@ -1,2 +1,5 @@
 builds/*
 .vscode/*
+.nova/*
+game.pdx
+.DS_Store
